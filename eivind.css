@@ -1,0 +1,152 @@
+body{
+	margin: auto;
+background: linear-gradient(#666666, black);
+}
+
+h1 {
+	font-size: 350%;
+	margin: auto;
+}
+
+.navcent a{
+	padding: 10px;
+	display: inline-block;
+	width: 120px;
+	border-collapse: collapse;
+	border: 2px black;
+	border-style: none solid none solid;
+	text-align: center;
+	margin-right: -6px;
+
+
+
+}
+
+.navcent a:hover{
+	transition: all 0.5s;
+	background-color: #999999;
+}
+
+
+
+
+
+.navcent {
+	border-bottom-style: solid;
+	border-top-style: solid;
+	width: 100%;
+	background: linear-gradient(#999999,#666666);
+
+
+}
+
+.navwidth {
+	margin-left: 285px;
+}
+
+.gbox{
+	
+    background: linear-gradient(#999999,#666666);
+    margin: 10px auto;
+	width: 1010px;
+    height: auto;
+    border:2px black;
+    margin-bottom: 0;
+    border-style: solid solid none solid;
+}
+
+img {
+	margin:auto;
+	height: 500px;
+	width: 500px; 
+	padding-top: 10px;
+	border: 2px solid black;
+
+	}
+
+
+
+.links{
+	display: inline-block;
+	height: 490px;
+	width: 455px;
+	line-height: 80px;
+	border: 2px solid black;
+	padding: 10px;
+
+}
+.padding{
+	padding: 10px;
+}
+
+.graybg{
+	text-align: center;
+}
+
+.memes td,th {
+	width: 300px;
+
+}
+
+.links2 {
+	border: 2px black
+	border-style: solid;
+	text-align: left;
+	position: relative;
+}
+
+.links2 td{
+	border-collapse: collapse;
+	border:2px;
+	border-style: none solid solid solid;
+	width: auto;
+	font-size: 150%;
+}
+
+
+.links2 table{
+	border-collapse: collapse;
+	border:1px;
+	border-style: solid solid solid solid;
+
+}
+
+
+.links2 th{
+	border-collapse: collapse;
+	border:2px;
+	border-style: none solid solid solid;
+	width: auto;
+}
+
+.footer {
+	background-color: transparent;
+	width: 100%;
+	border: 2px black;
+	border-style: solid none none none;
+	position: absolute;
+	background: transparent;
+
+}
+
+.footer p {
+	margin-left: 285px;
+}
+
+
+.padding a {
+	padding: 0px;
+
+}
+
+.padding button {
+	padding: 0px;
+	background-color: transparent;
+}
+
+.navwidth button {
+	background-color: transparent;
+	outline: none;
+	overflow: hidden;
+	border:none;
+	}
